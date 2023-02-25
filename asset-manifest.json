@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-project-youtube/static/css/main.e6c13ad2.css",
+    "main.js": "/react-project-youtube/static/js/main.e8ec7e72.js",
+    "index.html": "/react-project-youtube/index.html",
+    "main.e6c13ad2.css.map": "/react-project-youtube/static/css/main.e6c13ad2.css.map",
+    "main.e8ec7e72.js.map": "/react-project-youtube/static/js/main.e8ec7e72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e8ec7e72.js"
+  ]
+}
